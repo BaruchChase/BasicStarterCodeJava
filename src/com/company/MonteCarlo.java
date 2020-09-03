@@ -6,6 +6,6 @@ public class MonteCarlo
 {
     public static int numberOfDuplicates(List<Integer> list)
     {
-        return 0;
+        return -1;
     }
 }
